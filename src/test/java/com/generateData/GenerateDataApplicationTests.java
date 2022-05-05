@@ -1,4 +1,4 @@
-package com.example.generateData;
+package com.generateData;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

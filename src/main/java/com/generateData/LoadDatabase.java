@@ -1,7 +1,7 @@
-package com.example.generateData;
+package com.generateData;
 
-import com.example.generateData.Entity.Teacher;
-import com.example.generateData.Repository.TeacherRepository;
+import com.generateData.Entity.Teacher;
+import com.generateData.Repository.TeacherRepository;
 import com.github.javafaker.Faker;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
